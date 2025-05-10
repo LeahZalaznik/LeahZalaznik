@@ -1,74 +1,45 @@
 # Leah Zalaznik – Full Stack Developer
 
 📞 **Phone:** 058-328-0864  
-✉️ **Email:** leah.zalaznik@gmail.com
+✉️ **Email:** leah.zalaznik@gmail.com  
 
 ---
 
 ### 🌟 **About Me**  
-I am a **Full Stack Developer** with high learning abilities, excellent logical thinking, and deep understanding. I have strong analytical and problem-solving skills, fast grasping of new concepts, and a high level of motivation. I am committed to delivering high-quality software with attention to detail, always focusing on efficient and scalable solutions. My interpersonal skills are great, and I am known for my reliability and commitment to deadlines.
+I am a passionate **Full Stack Developer** with strong analytical skills, a quick learner, and a great attention to detail. I am dedicated to building high-quality, scalable software and always eager to take on new challenges.
 
 ---
 
-### 📌 **Current Focus**
+### 🛠 **Skills & Technologies**
 
-- **Backend Development:**  
-  - C#, ASP.NET, Entity Framework (Code First), Web API  
-  - Advanced architectures such as layered model and dependency injection
+**Languages:**  
+- ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
 
-- **Frontend Development:**  
-  - React, Hooks, Redux, MUI, Angular, Blazor
+**Web Development:**  
+- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- **Database Management:**  
-  - SQL Server, MySQL, MongoDB
+**Databases:**  
+- ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-- **DevOps Practices:**  
-  - CI/CD pipelines with Azure DevOps and Git
-
----
-
-## 💻 **Projects**
-
-### **Car Rental Web Site**  
-**Technologies:** React, C#, SQL  
-- **Backend:** Developed a Web API with advanced architecture, layered model, and dependency injection.  
-- **Frontend:** Implemented smart components using React Hooks, Redux, and MUI.
-
-### **Advertising Vacation Apartments Website**  
-**Technologies:** React, Node.js, MongoDB  
-- Used libraries such as multer, MUI, jsonwebtoken. Integrated external APIs like Weather API and Gmail API.
-
-### **Search Application (Bible Search)**  
-**Technologies:** C#  
-- Developed a dynamic search mechanism with advanced search functions, using MVC architecture to ensure code efficiency and correctness.
-
-### **Rush Hour Game**  
-**Technologies:** JavaScript, HTML, CSS  
-- Built the game while learning about complex event handling and ensuring a good user experience.
-
-### **Port Management System**  
-**Technologies:** SQL  
-- Designed DB schema, wrote Query Functions, Triggers, and Procedures for managing port operations such as ship entry, exit, loading, and unloading.
+**Tools & DevOps:**  
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+- ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 ---
 
-## ⚙️ **Skills**
-
-- **Programming Languages:** C#.Net, Java, Python, Node.js, C, C++
-- **Web Development:** React, Angular, JavaScript, CSS, HTML5
-- **Databases:** SQL Server, MySQL, MongoDB
-- **Development Tools:** Visual Studio, Eclipse, VS Code
-- **Tools & Technologies:** Docker, GIT, Entity Framework, WinForms, ADO.NET
-- **DevOps Tools:** Azure DevOps, CI/CD Pipelines
-
----
-
-## 🎓 **Education**
+### 📚 **Education**
 
 **2022-2025**  
 **Software Engineering Studies (Mahat)**  
-- **Average Score:** 99  
-- **Courses:** Ultra-Code program in Algorithms, Data Structures, Digital Systems, Operating Systems, AWS DevOps, AI, etc.
+- Average Score: 99
 
 **2017-2021**  
 **High School (Saled Exams)**  
@@ -76,7 +47,7 @@ I am a **Full Stack Developer** with high learning abilities, excellent logical 
 
 ---
 
-## 🌐 **Languages**
+### 🌐 **Languages**
 
 - **Hebrew:** Native  
 - **English:** Very Good
