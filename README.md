@@ -5,18 +5,28 @@
 
 ## About Me
 
-I am a passionate and energetic **Full Stack Developer** with high learning abilities, excellent logical thinking, and deep understanding.  
-I thrive in problem-solving, have excellent analytical skills, and maintain a fast grasp of new concepts.  
-I am highly detail-oriented and always strive for high-quality code and optimal solutions.  
-I am eager to invest my time and efforts in every project, and I’m motivated to grow and develop in the field.
+Full Stack Developer with strong analytical thinking, fast learning ability, and a deep understanding of software systems.  
+I am practical, focused, and detail-oriented, with a strong commitment to writing high-quality code and delivering optimal solutions.  
+I work well independently and in teams, maintain excellent interpersonal skills, and bring strong motivation and a proactive approach to every challenge.
 
 ## Practical Experience
 
 - **Car Rental Website** | React, C#, SQL  
+  Developed client side with React, Hooks, Redux, and MUI.  
+  Built server side with Web API, using layered architecture and dependency injection.
+
 - **Vacation Apartments Website** | React, Node.js, MongoDB  
+  Used libraries like multer, MUI, and jsonwebtoken.  
+  Integrated external APIs such as Gmail API and Weather API.
+
 - **Bible Search Application** | C#  
+  Implemented dynamic search logic using MVC architecture and optimized search algorithms.
+
 - **Rush Hour Game** | JS, HTML, CSS  
+  Developed a playable logic game focusing on user experience and event-driven design.
+
 - **Port Management System** | SQL  
+  Designed and implemented a full database system including queries, triggers, and stored procedures.
 
 ## 🛠️ Skills
 
@@ -24,7 +34,9 @@ I am eager to invest my time and efforts in every project, and I’m motivated t
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30" height="30"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="30" height="30"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30"/>
 
 **Web**:  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="30" height="30"/> &nbsp;
@@ -35,17 +47,28 @@ I am eager to invest my time and efforts in every project, and I’m motivated t
 
 **Databases**:  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="30" height="30"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30"/>
+
+**Tools & Technologies**:  
+Docker, Git, Entity Framework, ADO.NET, WinForms, MinimalAPI, Web Crawlers, CLI Tools
+
+**Environments**:  
+Visual Studio, VS Code, Eclipse
 
 ## Education
 
-- **2022–2025** | Software Engineering at MAHAT | Avg. Score: 99
+- **2022–2025** | Software Engineering at MAHAT | Avg. Score: 99  
+  Participated in intensive Ultra-Code courses by Kamatech (Algorithms, Data Structures, OS, Graphs, etc.)  
+  Practicode Program – Independent full-stack projects deployed to Render and Clever-Cloud platforms.
+
+- **2017–2021** | High School | Graduated with honors (Salad Exams)
 
 ## Languages
 
 - Hebrew: Native  
-- English: Excellent
+- English: Very Good
 
 ---
 
-Explore my repositories to see my projects!
+Check out my repositories to explore my work!
