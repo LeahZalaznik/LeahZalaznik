@@ -5,17 +5,17 @@
 
 ## About Me
 
-I’m a Full Stack Developer with strong analytical thinking, deep understanding, and the ability to learn and adapt quickly.  
-I’m detail-oriented, committed to writing clean and efficient code, and constantly striving to improve.  
-I enjoy solving problems, embracing new challenges, and continuously developing both my technical and teamwork skills.
+אני מפתחת Full Stack עם חשיבה אנליטית, הבנה מעמיקה, למידה מהירה, דייקנות ושאיפה לכתיבת קוד איכותי ונקי. בעלת מוטיבציה גבוהה להמשיך להתפתח, לאתגר את עצמי ולתרום משמעותית בכל פרויקט.
 
-## Practical Experience
+## Projects
 
+- **LogiCode – Learn Programming Easily** | Angular, C#, SQL  
 - **Car Rental Website** | React, C#, SQL  
 - **Vacation Apartments Website** | React, Node.js, MongoDB  
+- **Public Transport Search App** | Java (Spring Boot), H2  
 - **Bible Search Application** | C#  
 - **Rush Hour Game** | JavaScript, HTML, CSS  
-- **Port Management System** | SQL
+- **Port Management System** | SQL  
 
 ## 🛠️ Skills
 
@@ -27,35 +27,34 @@ I enjoy solving problems, embracing new challenges, and continuously developing 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="30" height="30"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30"/>
 
-**Web**:  
+**Web & Frameworks**:  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="30" height="30"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="30" height="30"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="30" height="30"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="30" height="30"/>
 
 **Databases**:  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="30" height="30"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="H2/SQLite" width="30" height="30"/>
 
 **Tools & Technologies**:  
-Docker · Git · Entity Framework · ADO.NET · WinForms · MinimalAPI · Web Crawlers
+Docker · Git · Entity Framework · ADO.NET · WinForms · MVC · DI · Clean Architecture · REST API · JWT · Google Login · Web Crawlers · MinimalAPI
 
 **Environments**:  
 Visual Studio · VS Code · Eclipse
 
 ## Education
 
-- **2022–2025** | Software Engineering at MAHAT | Avg. Score: 99  
-  Ultra-Code Program – Algorithms, Data Structures, Graphs, OS  
-  Practicode Program – Cloud deployment, CLI tools, self-developed full-stack projects
+- **2022–2025** | Software Engineering – MAHAT | Avg. Score: 99  
+- Ultra-Code Program – Algorithms, Data Structures, OS, Graphs  
+- Practicode – CLI tools, cloud deployment, full-stack projects
 
 ## Languages
 
 - Hebrew: Native  
 - English: Excellent
-
----
-
-Explore my repositories to see my projects!
