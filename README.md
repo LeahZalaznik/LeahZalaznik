@@ -5,7 +5,7 @@
 
 ## About Me
 
-אני מפתחת Full Stack עם חשיבה אנליטית, הבנה מעמיקה, למידה מהירה, דייקנות ושאיפה לכתיבת קוד איכותי ונקי. בעלת מוטיבציה גבוהה להמשיך להתפתח, לאתגר את עצמי ולתרום משמעותית בכל פרויקט.
+I am a Full Stack Developer with strong analytical skills, deep understanding, quick learning, attention to detail, and a passion for writing clean and high-quality code. I am highly motivated to keep developing myself, take on challenges, and contribute meaningfully to each project.
 
 ## Projects
 
