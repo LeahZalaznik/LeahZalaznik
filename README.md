@@ -1,83 +1,51 @@
-# Leah Rosenberg – Full Stack Developer
+# Leah Zalaznik – Full Stack Developer
 
-📞 058-3287342  
-📧 leah.r7342@gmail.com
+📞 058-3280864  
+📧 [leah.zalaznik@gmail.com](mailto:leah.zalaznik@gmail.com)
 
----
+## About Me
 
-## 👩‍💻 About Me
+I am a passionate and energetic **Full Stack Developer** with high learning abilities, excellent logical thinking, and deep understanding.  
+I thrive in problem-solving, have excellent analytical skills, and maintain a fast grasp of new concepts.  
+I am highly detail-oriented and always strive for high-quality code and optimal solutions.  
+I am eager to invest my time and efforts in every project, and I’m motivated to grow and develop in the field.
 
-Full Stack Developer with strong learning skills, excellent logic and analytical abilities, high motivation, fast comprehension, attention to detail, and great interpersonal communication. I enjoy challenges, take initiative, and thrive under pressure. I work well both independently and in teams.
+## Practical Experience
 
----
-
-## 💼 Practical Experience
-
-### 🚗 Car Rental Website  
-**Technologies:** React | C# | SQL  
-- **Client:** Smart use of components with Hooks, Redux, MUI  
-- **Server:** Web API, layered architecture, dependency injection
-
-### 🏖️ Vacation Apartments Website  
-**Technologies:** React | Node.js | MongoDB  
-- Uses libraries like multer, jsonwebtoken, MUI  
-- Integration with external APIs: Gmail API, Weather API
-
-### 🔎 Bible Search Application  
-**Technologies:** C#  
-- Dynamic search engine using MVC  
-- Advanced search functions, clean and efficient code
-
-### 🎮 Rush Hour Game  
-**Technologies:** JavaScript | HTML | CSS  
-- Built from scratch while learning complex event handling  
-- Focused on user experience
-
-### ⚓ Port Management System  
-**Technologies:** SQL  
-- DB design and implementation  
-- Writing queries, triggers, stored procedures
-
----
+- **Car Rental Website** | React, C#, SQL  
+- **Vacation Apartments Website** | React, Node.js, MongoDB  
+- **Bible Search Application** | C#  
+- **Rush Hour Game** | JS, HTML, CSS  
+- **Port Management System** | SQL  
 
 ## 🛠️ Skills
 
-**Languages:**  
-C#, Java, Python, Node.js, C, C++
+**Languages**:  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30" height="30"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30"/>
 
-**Web Development:**  
-React, Angular, JavaScript, HTML5, CSS3
+**Web**:  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="30" height="30"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="30" height="30"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30"/>
 
-**Databases:**  
-SQL Server, MySQL, MongoDB
+**Databases**:  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="30" height="30"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30"/>
 
-**Tools & Technologies:**  
-Git, Docker, Visual Studio, VS Code, Eclipse  
-Entity Framework, WinForms, ADO.NET  
-CLI tools, Minimal API, Web Crawlers, Render, Clever Cloud
+## Education
 
-**Topics & Courses:**  
-Operating Systems, Digital Systems, Networking, AI, DevOps (AWS)  
-Algorithms, Data Structures, Graph Theory, System Analysis
+- **2022–2025** | Software Engineering at MAHAT | Avg. Score: 99
 
----
+## Languages
 
-## 🎓 Education
-
-**2022–2025** | Software Engineering, MAHAT  
-Avg. score: 99  
-- Ultra-Code Program (KamaTech): Advanced courses in Algorithms, Data Structures, Digital Systems, and more  
-- Practicode self-learning track: Cloud deployments, CLI tools, full project cycles
-
-**2017–2021** | High School – Graduated with honors
+- Hebrew: Native  
+- English: Excellent
 
 ---
 
-## 🌍 Languages
-
-Hebrew – Native  
-English – Very Good
-
----
-
-> 📂 Explore my repositories to see more of my work.
+Explore my repositories to see my projects!
