@@ -1,74 +1,72 @@
 # Leah Zalaznik – Full Stack Developer
 
-📞 058-3280864  
-📧 [leah.zalaznik@gmail.com](mailto:leah.zalaznik@gmail.com)
+📞 058-3280864 | 📧 [leah.zalaznik@gmail.com](mailto:leah.zalaznik@gmail.com)
 
-## About Me
+---
 
-Full Stack Developer with strong analytical thinking, fast learning ability, and a deep understanding of software systems.  
-I am practical, focused, and detail-oriented, with a strong commitment to writing high-quality code and delivering optimal solutions.  
-I work well independently and in teams, maintain excellent interpersonal skills, and bring strong motivation and a proactive approach to every challenge.
+## Profile
+
+I am a Full Stack Developer with a strong passion for learning and the ability to quickly adapt to new technologies.  
+I enjoy problem-solving, think logically, and have great attention to detail.  
+With experience in team environments, I strive to deliver clean, efficient, and high-quality code.  
+I am committed to writing maintainable code and highly motivated to invest in every project and grow professionally.
+
+---
 
 ## Practical Experience
 
 - **Car Rental Website** | React, C#, SQL  
-  Developed client side with React, Hooks, Redux, and MUI.  
-  Built server side with Web API, using layered architecture and dependency injection.
-
+  - Server-side: Web API, multi-layer architecture, and Dependency Injection  
+  - Client-side: Advanced React components, Hooks, Redux, MUI  
 - **Vacation Apartments Website** | React, Node.js, MongoDB  
-  Used libraries like multer, MUI, and jsonwebtoken.  
-  Integrated external APIs such as Gmail API and Weather API.
-
+  Used libraries like multer, MUI, jsonwebtoken, and integrated external APIs (Weather API, Gmail API)  
 - **Bible Search Application** | C#  
-  Implemented dynamic search logic using MVC architecture and optimized search algorithms.
-
-- **Rush Hour Game** | JS, HTML, CSS  
-  Developed a playable logic game focusing on user experience and event-driven design.
-
+  A dynamic Bible search app using MVC architecture and custom search functions  
+- **Rush Hour Game** | JavaScript, HTML, CSS  
+  Developed a puzzle game with complex event handling and smooth user experience  
 - **Port Management System** | SQL  
-  Designed and implemented a full database system including queries, triggers, and stored procedures.
-
-## 🛠️ Skills
-
-**Languages**:  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30" height="30"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="30" height="30"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30"/>
-
-**Web**:  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="30" height="30"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="30" height="30"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30"/>
-
-**Databases**:  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="30" height="30"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30"/>
-
-**Tools & Technologies**:  
-Docker, Git, Entity Framework, ADO.NET, WinForms, MinimalAPI, Web Crawlers, CLI Tools
-
-**Environments**:  
-Visual Studio, VS Code, Eclipse
-
-## Education
-
-- **2022–2025** | Software Engineering at MAHAT | Avg. Score: 99  
-  Participated in intensive Ultra-Code courses by Kamatech (Algorithms, Data Structures, OS, Graphs, etc.)  
-  Practicode Program – Independent full-stack projects deployed to Render and Clever-Cloud platforms.
-
-- **2017–2021** | High School | Graduated with honors (Salad Exams)
-
-## Languages
-
-- Hebrew: Native  
-- English: Very Good
+  Database design, Queries, Triggers, and Stored Procedures for ship logistics
 
 ---
 
-Check out my repositories to explore my work!
+## 🛠️ Technical Skills
+
+**Programming Languages**:  
+C#.NET · Java · Python · JavaScript · TypeScript · Node.js · C · C++
+
+**Web Development**:  
+React · Angular · HTML5 · CSS3 · JavaScript
+
+**Databases**:  
+SQL Server · MySQL · MongoDB
+
+**Environments & Tools**:  
+Visual Studio · VS Code · Eclipse
+
+**Courses & Certifications**:  
+Digital Systems · Networking · Operating Systems · Information Systems Analysis · AWS DevOps · AI · Data Structures
+
+**Technologies & Tools**:  
+Git · Docker · Entity Framework · ADO.NET · WinForms
+
+---
+
+## Education
+
+**2022–2025**  
+Software Engineering | MAHAT | GPA: 99  
+- Ultra-Code Courses via KamaTech: Algorithms, Data Structures, Graph Theory, Digital Systems  
+- Practicode Projects: CLI tools, Minimal APIs, Web Crawlers, professional presentations, deployment to Render and Clever-Cloud
+
+**2017–2021**  
+High School | Graduated with High Honors
+
+---
+
+## Languages
+
+Hebrew – Native · English – Excellent
+
+---
+
+> Feel free to explore my GitHub to see more of my projects!
